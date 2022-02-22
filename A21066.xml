@@ -1,0 +1,886 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands hope, against Irish hate</title>
+            <author>J. G. E.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1600</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21066</idno>
+            <idno type="STC">STC 7434.7</idno>
+            <idno type="STC">ESTC S2576</idno>
+            <idno type="EEBO-CITATION">24338552</idno>
+            <idno type="OCLC">ocm 24338552</idno>
+            <idno type="VID">27534</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21066)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 27534)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1850:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands hope, against Irish hate</title>
+                  <author>J. G. E.</author>
+               </titleStmt>
+               <extent>[28] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by VV.VV. for Thomas Heyes,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1600.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signed at end: J.G.E.</note>
+                  <note>Signatures: A-C⁴ D².</note>
+                  <note>Imperfect: slightly faded.</note>
+                  <note>Reproduction of original in the Lambeth Palace Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tyrone's Rebellion, 1597-1603 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:27534:1" rendition="simple:additions"/>
+            <p>ENGLANDS HOPE, AGAINST IRISH HATE.</p>
+            <q>Sint Maecenates et non deerunt Marones.</q>
+            <p>AT LONDON, Printed by VV. VV. for Thomas Heyes. 1600.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:27534:2"/>
+            <pb facs="tcp:27534:2"/>
+            <head>THE EPISTLE DEDICATORIE.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg> Haue here preſumed for to</hi> preſent you with my <hi>ENGLISH HOPE:</hi> which, though it be but roughly handled, yet the Matter is good. If you be pleaſed to take delight in it, I ſhall not onely be encouraged to ſome more ſerious ſtudy, but be bound (before any other) to make you par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> thereof. I hope you will not meaſure the Matter by the M<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, nor proportion the worth of my labour with the vnwor<g ref="char:EOLhyphen"/>thines of my ſelfe: f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r that were to refuſe the <hi>Roſe,</hi> becauſe it hath pr<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>; or to make light eſteeme of H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nny, becauſe the <hi>L'ee</hi> hath a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. I know <hi>Mo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us</hi> will looke at it narrowly, and ſay; So <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> a matter is but weakly foll<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wed. <hi>Zoylus</hi> with his ſquint eyes, will finde ſome fault with the ſhape; ſo ſhall I be bitt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n both for matter and method: Well, I care not though They be <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, if I finde you curte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us. If an <hi>Aſſe</hi> ſtrike me, I will neuer lift vp my heele: a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d if <hi>Diogenes</hi> be cinicall, I will ſhake off his <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with <hi>Ari<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ipus.</hi> Though <hi>Hipanchion</hi> could not warble like <hi>O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pheus,</hi> yet he coulde pipe. And though <hi>En<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>-wrote a rough ſtile yet he was a <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and I may tearme my ſelfe a Writer, thou <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Inditer. Every one dippes not his <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with <hi>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mer</hi> in the <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> nor all mens workes can<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. How ſo euer I haue pleaſed <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, and my truſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> pleaſe you: In which hope, I commit my ſelfe, and <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Booke, to your <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> cenſure.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:27534:3"/>
+            <pb facs="tcp:27534:3"/>
+            <head>ENGLANDS HOPE AGAINST IRIHS HATE.</head>
+            <lg>
+               <l>THE <hi>Serpents</hi> ſly inſinuating courſe,</l>
+               <l>Is farre below moſt oppoſite to ſight;</l>
+               <l>His practize deadly, his deſier worſe:</l>
+               <l>The faireſt greene conceales his hidden ſpight,</l>
+               <l>Nothing leſſe feared then to ſhunne his force:</l>
+               <l>Yet nothing ſooner doth beget miſhappe,</l>
+               <l>For worſt inſnares the ſuddaine vnſeene trappe.</l>
+            </lg>
+            <lg>
+               <l>Such are thoſe creeping <hi>Machauils</hi> of late,</l>
+               <l>Thoſe eueſ-dropping Heralts liſtning ſpies,</l>
+               <l>That come to prye into our Countries ſtate;</l>
+               <l>To hide their Treaſon, Vizards they deuize;</l>
+               <l>That ſo they may our purpoſes relate:</l>
+               <l>With vs they walke, they laugh; with vs they eate</l>
+               <l>Yet in their hartes hath <hi>Iudas</hi> ta'ne his ſeate.</l>
+            </lg>
+            <pb facs="tcp:27534:4"/>
+            <lg>
+               <l>But if their falsehood, <hi>Trueth</hi> hath open laide;</l>
+               <l>If younger wits, their elder ſhifts haue ſeene:</l>
+               <l>If their cloſe meeching prouidence diſplaide,</l>
+               <l>And all their councels haue confounded been:</l>
+               <l>If Trecherie haue Treaſons ſelfe betraide,</l>
+               <l>And not our ſelues do laugh at them alone,</l>
+               <l>If all miſcarry: Why not then <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What venome beaſt compared to the Toade,</l>
+               <l>Doth better picture malice of the minde?</l>
+               <l>Hee ſtripes ſo long his rancor to vnloade,</l>
+               <l>As coueting an equall pitch to finde:</l>
+               <l>With him whoſe clouen hoofe is ſcarce ſo broade</l>
+               <l>In puft preſumptuous humor glowting ſitts,</l>
+               <l>Vntill his carcas quite in ſunder ſplitts.</l>
+            </lg>
+            <lg>
+               <l>Such is the broody monſter <hi>Rome</hi> containes,</l>
+               <l>His eyes he ſtraines vntill they ſparkle fire:</l>
+               <l>His handes are fatted with continuall gaines:</l>
+               <l>Each howre againſt the annoynted hee conſpires</l>
+               <l>His hart a thouſand ſtratagems retaines,</l>
+               <l>And downe his throat he needs wil ſwallow <hi>Spaine</hi>
+               </l>
+               <l>With <hi>Fraunce</hi> and <hi>Italy,</hi> to worke our paine.</l>
+            </lg>
+            <pb facs="tcp:27534:4"/>
+            <lg>
+               <l>But if this dyet haue diſtemper wrought,</l>
+               <l>If this huge glutton ſurfettor on hate,</l>
+               <l>In ſtriuing to be greater then he ought:</l>
+               <l>Hath ſtill been croſt with death, a boading fate,</l>
+               <l>That his diſſeuered members fly about;</l>
+               <l>And ſome of them vnto our gates at blowne,</l>
+               <l>For Crowes to feed on: Why not then <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Shepheards dread, the ſilly flockes annoy,</l>
+               <l>The rauening Woolfe, is euer knowne to be</l>
+               <l>His thirſty ſtomacke ſlaughter muſt inioy,</l>
+               <l>And naught but blood allayes his tyrannie:</l>
+               <l>The more he hath, the more he will deſtroy,</l>
+               <l>Nor is it ſoueraintie, but beaſtiall luſt:</l>
+               <l>For who knowes not the ſillie <hi>Lambe</hi> is iuſt?</l>
+            </lg>
+            <lg>
+               <l>Such is the ſterne <hi>Iberian Monarchy,</hi>
+               </l>
+               <l>Whoſe fingers dipt in ill effuſed gore:</l>
+               <l>And hartes ybath'd in neighbor Tyranny,</l>
+               <l>Lift vp their ſnowts into the Weſt for more,</l>
+               <l>And nought may ſtaunch their bloody penury,</l>
+               <l>But wrongfull maſſacre of Gods elect,</l>
+               <l>The more their proude ambition to detect.</l>
+            </lg>
+            <pb facs="tcp:27534:5"/>
+            <lg>
+               <l>But if the ſinnewes of their ſtrong aſſaultes,</l>
+               <l>The iuſt reuenger haue in ſunder crackt:</l>
+               <l>If ſo their huge <hi>Armados</hi> in the vault's,</l>
+               <l>Of vaſt <hi>Oceans</hi> kingdome haue been wrackt,</l>
+               <l>Leauing the world to deſcant on their faults:</l>
+               <l>If all their boaſting th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es away were blowne,</l>
+               <l>And they ſuppreſt: then why not now <hi>TERONE?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If wauering with the reede that ſhakes his toppe,</l>
+               <l>Which way the wind ſends foo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th a whiſtling gale,</l>
+               <l>Euer bee turning with the weather-cocke,</l>
+               <l>And ſpred <hi>Inconſtancies</hi> forbidden ſayle,</l>
+               <l>Deſerue reproach, and euery <hi>Idiots</hi> mocke:</l>
+               <l>What then ſhall they that like <hi>Camelions</hi> skinnes,</l>
+               <l>Make euery obiect <hi>Authour</hi> of new ſinnes?</l>
+            </lg>
+            <lg>
+               <l>Yet ſuch there are, whoſe rotten inſide ſhowes</l>
+               <l>Their outward painting, but corrupted droſſe,</l>
+               <l>Whoſe fayth as often alters, as the glo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>For moſt aduantage in deceipt ſo groſſe:</l>
+               <l>As for their gaine, they wrecke not honors loſſe;</l>
+               <l>Now ſwearing, then recounting what they ſwore,</l>
+               <l>One foote on board, the other on the ſhore.</l>
+            </lg>
+            <pb facs="tcp:27534:5"/>
+            <lg>
+               <l>But if the Plaines of <hi>Creſsy,</hi> like a Booke</l>
+               <l>Containe in Carracters their heauie doome:</l>
+               <l>If <hi>Bullen, Turny, Poictiers,</hi> pale do looke,</l>
+               <l>To thinke what hath, or may here after come:</l>
+               <l>If they be witneſſes how ill we brooke</l>
+               <l>Disſembling lips, when <hi>Trueth</hi> the goale hath won,</l>
+               <l>Treading on falſhood: Why not then <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Foxe is ſubtile, and doth lie a loofe,</l>
+               <l>Wayting occaſion when to catch his pray;</l>
+               <l>Seeing, and yet not ſeene, for his behoofe,</l>
+               <l>As though compasſion kept him at a ſtay,</l>
+               <l>When (God doth know) ti's feare doth rule the day:</l>
+               <l>Yet ſuch is his <hi>Hypocriſie</hi> by kinde,</l>
+               <l>He will be thought to loue; to hate inclinde.</l>
+            </lg>
+            <lg>
+               <l>Such Cubbes the <hi>Northerne</hi> iſſue of the aire,</l>
+               <l>Sends foorth to barke againſt the ſiluer Moone</l>
+               <l>Whoſe froſen temperate cannot repaire</l>
+               <l>Nor better fame that Region euer wonne.</l>
+               <l>Ti's hard to wring moyſt water from a ſtone:</l>
+               <l>What hath been cuſtom'd, ſeldome men refraine,</l>
+               <l>A bone-bred euill, the fleſh will ſtill retaine.</l>
+            </lg>
+            <pb facs="tcp:27534:6"/>
+            <lg>
+               <l>But if their lurking malice hath been impt</l>
+               <l>Euen when their treaſon, like grasſie blads did ſpring</l>
+               <l>And downe their gyant boaſtings rudly tript,</l>
+               <l>When circumuention lookt for greateſt ſpeeding,</l>
+               <l>And in one day their Army lay a bleeding:</l>
+               <l>If King and people both were ouer-throwne,</l>
+               <l>What lets to hope the like againſt <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>As that diſeaſe which doth attaint the hart,</l>
+               <l>Is more pernitious fatall then the griefe,</l>
+               <l>Doth outwardly afflict ſome other part;</l>
+               <l>And is leſſe capeable of ſwift reliefe:</l>
+               <l>So mongſt our enemies the worſt and chiefe,</l>
+               <l>Is nothing foraine, but the home-bred foe;</l>
+               <l>And ſuch as owne dominion vnder-goe.</l>
+            </lg>
+            <lg>
+               <l>Whereof foure kindes I purpoſe to relate;</l>
+               <l>All Viper-like, their mothers wombe aſſayling:</l>
+               <l>All worſe then <hi>Hemblocke</hi> to their countries ſtate,</l>
+               <l>Againſt her life, with meagre death preuailing,</l>
+               <l>In them faire <hi>Peace</hi> her miſeries bewailing:</l>
+               <l>That moſt vnnaturall outrage filles the aire,</l>
+               <l>And Prince and ſubiect feedes vpon diſpaire.</l>
+            </lg>
+            <pb facs="tcp:27534:6"/>
+            <lg>
+               <l>The firſt, the <hi>Traitor Paſsant</hi> I define:</l>
+               <l>The next, <hi>Regardant: Couchant</hi> is the third:</l>
+               <l>
+                  <hi>Rampant</hi> the fourth and laſt: where I combine</l>
+               <l>The generall Eyrie of this monſterous Birde;</l>
+               <l>Whereof not one hath wickedly been ſtirde,</l>
+               <l>That vnder vengaunce iuſtly did not groane,</l>
+               <l>To quit rebellion: Why not then <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>THE TRAITOR PASSANT.</head>
+               <l>This whelpe of <hi>Typhe,</hi> this groſſe influence,</l>
+               <l>Of canckring humors hauing taken holde,</l>
+               <l>Infecteth all, like to the Peſtilence:</l>
+               <l>Gaddes too and fro, in councell ſhameles boulde;</l>
+               <l>Perſwading here, there tempting with his golde:</l>
+               <l>That ſo he may peruert the ciuill good,</l>
+               <l>And hurt, for whom he owes his vaſſaile blood.</l>
+            </lg>
+            <lg>
+               <l>Such Inundation of lewde villanie,</l>
+               <l>Such walking Spirits, ſuch hopping Grashoppers:</l>
+               <l>Such Frogges of <hi>Aegypt,</hi> baſtard <hi>Ieſury,</hi>
+               </l>
+               <l>Not long agoe did play the damn'de introppers,</l>
+               <l>VVith drawing ſubiects from their fealtie:</l>
+               <l>Sounding our Hauens, gathering in munition,</l>
+               <l>Gainſt ſome forraine power abrupt-intruſion.</l>
+            </lg>
+            <pb facs="tcp:27534:7"/>
+            <lg>
+               <l>But if <hi>Throckmorton, Campion,</hi> and the reſt,</l>
+               <l>With thoſe their deadly ſinnes, in number doubling</l>
+               <l>All agents to the Triple wreathed Beaſt:</l>
+               <l>VVith plodding feete our ſpring of gladnes troubling</l>
+               <l>Fell in their owne mudd errours, groueling:</l>
+               <l>If their blood paceing trackts, were quickly knowne,</l>
+               <l>And they ſupplanted: VVhy not then <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>THE TRAITOR REGARDANT.</head>
+               <l>This ſqint-ey'd wat, this wry-neckt fugitiue,</l>
+               <l>Labours in like oppugnacie of fayth:</l>
+               <l>Some fatall <hi>Organon</hi> for to contriue,</l>
+               <l>VVhereby he may procure his Countries ſcath;</l>
+               <l>But being ſmoakt in that he plotted hath,</l>
+               <l>A way he goes; yet flying wrythes his head,</l>
+               <l>Repyning ſtill at thoſe from whom he's fled.</l>
+            </lg>
+            <lg>
+               <l>Such after-malice, ſuch retorting hate,</l>
+               <l>That grindes the teeth when he is forſt'to skud:</l>
+               <l>Curſing the fortune of well gouern'd ſtate,</l>
+               <l>VVhen other miſchiefe wholly is withſtood,</l>
+               <l>Ploughing with ſpeed through the <hi>Ocean</hi> flud:</l>
+               <l>And hauing got the ſeas vpon their backe,</l>
+               <l>Looke ore their ſhoulder for their countries wracke</l>
+            </lg>
+            <pb facs="tcp:27534:7"/>
+            <lg>
+               <l>But if their ſtaring expectation faile,</l>
+               <l>And they haue gapt vntill their lawes do ake:</l>
+               <l>It imprecations nothing do preuaile,</l>
+               <l>Nor elſe what they in practize vnder take,</l>
+               <l>But dayly miſeries their ſoules pertake:</l>
+               <l>As not the wofull <hi>Weſtmerland</hi> alone,</l>
+               <l>Repents his treaſon: Why not then <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>THE TRAITOR COVCHANT.</head>
+               <l>This leering monſter lurkes within his den,</l>
+               <l>Seeming well pleaſd with any ſquare of life;</l>
+               <l>Conceales his thoughts from publike ſight of men:</l>
+               <l>Giues vnder-hand increaſe to factious ſtrife,</l>
+               <l>And in his boſome hides the fatall knife:</l>
+               <l>With which, when Innouation calles him out,</l>
+               <l>Hee ruthles meanes to cut his countries throate.</l>
+            </lg>
+            <lg>
+               <l>This is that lumpe of vile hipocriſie,</l>
+               <l>That <hi>Ianus-like</hi> doth beare a double hood.</l>
+               <l>This is that framer of bace villanic,</l>
+               <l>By whom all vertuous actions are withſtood.</l>
+               <l>He neuer doth intende his Countries good;</l>
+               <l>But priuatly indeuours publicke ſmart,</l>
+               <l>To whom he owes his blood, his life, his hart.</l>
+            </lg>
+            <pb facs="tcp:27534:8"/>
+            <lg>
+               <l>Such are the ruines of decayde exceſſe,</l>
+               <l>The <hi>Catelines</hi> that ſome time peſtered <hi>Rome,</hi>
+               </l>
+               <l>Our newtrall male-contents, of conſcience leſſe</l>
+               <l>Then they which ſacriledge their fathers Tombe:</l>
+               <l>With them Church will-full exiles halting come;</l>
+               <l>Who are as Spiders mongſt the honny Bees,</l>
+               <l>Or to pure Wine, the dreg downe ſinking Lees.</l>
+            </lg>
+            <lg>
+               <l>If theſe groſse abiectes, theſe indifferences,</l>
+               <l>Reſpecting almoſt neither hell nor heauen;</l>
+               <l>Haue been ingaold within their durty ſtyes,</l>
+               <l>Of all exulting glory quite bereauen:</l>
+               <l>Not daring once lift vp their low-checkt eyes<g ref="char:punc">▪</g>
+               </l>
+               <l>If trembling feare haue drencht them in their mone,</l>
+               <l>Leauing them proſtrate: Why not then <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>THE TRAITOR RAMPANT.</head>
+               <l>
+                  <hi>Amaine, Amaine,</hi> thus cryes this luſtie baſe,</l>
+               <l>The toppe muſt vaile, no other congie ſerues:</l>
+               <l>A Cottage? fic, his ſeate muſt be a Pallace;</l>
+               <l>To which his brandiſht blade, his paſſage carues,</l>
+               <l>All, or elſe none, his worthines deſerues:</l>
+               <l>And ſo doth eleuate his reaching paw,</l>
+               <l>VVith kingly ſpoyle, to gorge <hi>Ambitions</hi> maw<g ref="char:punc">▪</g>
+               </l>
+            </lg>
+            <pb facs="tcp:27534:8"/>
+            <lg>
+               <l>Such was the Serpentine late gathered head,</l>
+               <l>Congeald obedience publiſht in the <hi>North<g ref="char:punc">▪</g>
+                  </hi>
+               </l>
+               <l>And ſuch is that in <hi>Ireland</hi> now bred,</l>
+               <l>By him whoſe parentage is little worth:</l>
+               <l>That hath inkindled Maieſties high wroth:</l>
+               <l>Thoſe onely Vermine of their Countries ſoyle,</l>
+               <l>Contemning <hi>Peace,</hi> and glorying ſo in ſpoyle.</l>
+            </lg>
+            <lg>
+               <l>But if in all times former memory,</l>
+               <l>Such, and the like proceedinges haue declinde:</l>
+               <l>If neuer yet was ſeene that Trechery,</l>
+               <l>Againſt th'annoynted, had his force combinde;</l>
+               <l>But ſtill deſerued-vengaunce was asſignde:</l>
+               <l>If all haue learned experience one, by one,</l>
+               <l>To taſte affliction: VVhy not then <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>To ouer paſſe the ruines long perfixt,</l>
+               <l>Inroulde in leaues of graue <hi>Antiquitie:</hi>
+               </l>
+               <l>The mutuall Blood of <hi>Traitors</hi> late commixt,</l>
+               <l>Let out by ſword of ſharpe ſeueritie,</l>
+               <l>Giue warrantize of lawrell victorie:</l>
+               <l>And to theſe Rebels fearefull diſcipline,</l>
+               <l>What ty's a ſubiectes duetie to reſigne.</l>
+            </lg>
+            <pb facs="tcp:27534:9"/>
+            <lg>
+               <l>If <hi>Rory Oge,</hi> a pillor of that crew,</l>
+               <l>Of glib-pate Karne, and breechles pedigree;</l>
+               <l>Preſuming of a Scepter to enſue:</l>
+               <l>Fell headlong into cureles miſerie,</l>
+               <l>Curſing the time of treading thus awry,</l>
+               <l>And with his blood powrde foorth repentant teares,</l>
+               <l>To ſhew his ſorrow, for miſpence of yeares.</l>
+            </lg>
+            <lg>
+               <l>If <hi>Feaghe Mackhugh</hi> an other out-law carle,</l>
+               <l>Stampt of the ſame rebellious vp-ſtart moulde,</l>
+               <l>With thoſe, againſt the regall guidance gnarle:</l>
+               <l>Not enterprizing what they ſhould, but would;</l>
+               <l>Receau'd his hire, for being ouer bould:</l>
+               <l>And for adulterat Nobilitie,</l>
+               <l>VVas taught the ſtudie of Aſtronomie.</l>
+            </lg>
+            <lg>
+               <l>If ſterne <hi>Mackshaw</hi> irregular and bloody,</l>
+               <l>That likewiſe gaue vs baſe vpon the bogges,</l>
+               <l>In treaſons purſute, obſtinate and moody:</l>
+               <l>Trayning with him a number ſuch like dogges,</l>
+               <l>Performd at laſt his curriſh obſequie,</l>
+               <l>A haulter deſtin'd to his mankind necke,</l>
+               <l>That gaue the luſty gameſter mate and checke.</l>
+            </lg>
+            <pb facs="tcp:27534:9"/>
+            <lg>
+               <l>If great <hi>Oneale,</hi> ſole great in his abuſe,</l>
+               <l>Rich in the want of true humilitie:</l>
+               <l>A pignie punie for the ſpirits infuſe;</l>
+               <l>And <hi>Irus</hi> poore for his fidelitie,</l>
+               <l>Was forſt to ſee his naked Trecherie,</l>
+               <l>And ſtealing foorth to finde the Figtree-ſhade,</l>
+               <l>Could no way ſhrowd th'offence his ſoule had made</l>
+            </lg>
+            <lg>
+               <l>If <hi>Deſmond,</hi> that Hereditary Lord,</l>
+               <l>Lilke <hi>Naball</hi> vaunting his large Seigniorie;</l>
+               <l>Thouſandes depending on his ill drawne Sword,</l>
+               <l>Payde dearely for his damned periurie:</l>
+               <l>His Houſe attaint with laſting infamie,</l>
+               <l>And his cropt head aduanct' in deathes pale throne,</l>
+               <l>For men to gaze at: Why not then <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If Deitie the righteous cauſe vpholde,</l>
+               <l>And wrong be ſtill the Iewell of his hate:</l>
+               <l>If band coale blacke, their Princes loue haue ſolde,</l>
+               <l>And bleſt that ſticke vnto their countries ſtate:</l>
+               <l>If death the one doe neuer ſubiugate,</l>
+               <l>But ſpight of Deſtinie, his fame ſhall flouriſh,</l>
+               <l>Where as the other eternally ſhall periſh.</l>
+            </lg>
+            <pb facs="tcp:27534:10"/>
+            <lg>
+               <l>If Traytors though immûr'd in walles of Braſie,</l>
+               <l>And lockt in Armour of the ſtrongeſt proofe;</l>
+               <l>In courage ſtill, are brittle as the Glaſſe,</l>
+               <l>Their conſcience telling how they keepe aloofe:</l>
+               <l>If they are but a bubble, ſmoake, a puffe;</l>
+               <l>Afrayde to looke vpon the ryſing Sunne,</l>
+               <l>And dreading more, when he his courſe hath runne</l>
+            </lg>
+            <lg>
+               <l>If euery ſcowlyng cloud aloft doth glaunce,</l>
+               <l>And ſome times but the ſhadow of a <hi>Tree,</hi>
+               </l>
+               <l>Make them coniecture ſome ſuddaine wrackfull chaunce,</l>
+               <l>Leading their ſenſes to an extaſie:</l>
+               <l>If multitudes and many handes they bee,</l>
+               <l>But hartes to guide thoſe handes but few or none:</l>
+               <l>Who ſees not then the downe-fall of <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A Traitors Cognizaunce to know him by;</l>
+               <l>Are his leawd deedes, and ſucceſſe therein,</l>
+               <l>To finde them ſuch peruſe their villany:</l>
+               <l>Vnrippe the fardle of their mouldy ſin:</l>
+               <l>Deſcribe the puddle they do wallow in,</l>
+               <l>The haynous theftes, the maſſacres of ruth,</l>
+               <l>Wherin they haue bin nouzled from their youth.</l>
+            </lg>
+            <pb facs="tcp:27534:10"/>
+            <lg>
+               <l>As they are rude, and ſtrange in their attyre,</l>
+               <l>Portrayted in an Anticke faſhion:</l>
+               <l>So all their diſpoſitions, all deſire,</l>
+               <l>Bewrayes a crooked generation,</l>
+               <l>Vnciuill in their firſt creation:</l>
+               <l>Each channell begger needy will be a Lord,</l>
+               <l>Although his honors purchace be a cord.</l>
+            </lg>
+            <lg>
+               <l>Thoſe ciuill hartes that ſtoope to iuſt commaund,</l>
+               <l>Allow Religion, and imbrace their God:</l>
+               <l>They ſeriouſly with all their might withſtand,</l>
+               <l>Afflicting them with warres deepe wounding rod,</l>
+               <l>Accounting ſtill the number to be od,</l>
+               <l>Vntill ſuch Subiectes they haue ouerthrowne,</l>
+               <l>As are vnfaigned friendes vnto the Crowne.</l>
+            </lg>
+            <lg>
+               <l>Banquets wherein their appetites may broach,</l>
+               <l>The crymſen veynes of kinne, to quench their thirſt:</l>
+               <l>In rage they wrecke not Natures neare approach;</l>
+               <l>Who is the laſt, appeareth to be firſt.</l>
+               <l>If he can glory moſt of deedes accurſt:</l>
+               <l>All their delight is generall annoy,</l>
+               <l>And by moſt harmes acrues their greateſt ioy.</l>
+            </lg>
+            <pb facs="tcp:27534:11"/>
+            <lg>
+               <l>Fruite Fieldes ore-runne, and ſtately Cities burning,</l>
+               <l>Order diſordered, Iuſtice in the wayne:</l>
+               <l>The current of ſweete <hi>Peace,</hi> to diſcord turning:</l>
+               <l>Women lamenting, Children cryes in vayne:</l>
+               <l>What ere is got, accounted honeſt gayne.</l>
+               <l>Blaſphemie to God, to Men a ſcandall,</l>
+               <l>This <hi>Iriſh</hi> Kerne allowes, elſe they condemne all.</l>
+            </lg>
+            <lg>
+               <l>Their will ſubmits not to their Princes will.</l>
+               <l>Obedience is a word, they neuer heard:</l>
+               <l>Their hope is for to be magnifide for ill.</l>
+               <l>The Law's a chaſtitie, a taske too hard.</l>
+               <l>Prayer, and all good exerciſe, is bard:</l>
+               <l>And ſooner they will lift a hand to kill,</l>
+               <l>Then once intreat remisſion of that ill.</l>
+            </lg>
+            <lg>
+               <l>Humilitie is natiue arrogance,</l>
+               <l>Retaine from time of their Conception.</l>
+               <l>Three thinges accompanie their eſſence,</l>
+               <l>Neuer retaine but by ſubuerſion,</l>
+               <l>
+                  <hi>Feare, Shame,</hi> and <hi>Guilt of Conſience:</hi>
+               </l>
+               <l>But if it chaunce they do out-liue their pride,</l>
+               <l>Then comes <hi>Repentance,</hi> elſe they are neuer tride.</l>
+            </lg>
+            <pb facs="tcp:27534:11"/>
+            <lg>
+               <l>
+                  <hi>Feare</hi> of his Iudgement that appeares aboue,</l>
+               <l>
+                  <hi>Shame</hi> of the worldes reprochfull cenſure,</l>
+               <l>The mindes fell torment that doth euer moue,</l>
+               <l>And wrappes the body in perpetuall torture:</l>
+               <l>This is a duetie growing euery quarter;</l>
+               <l>Exactes a pention, if it be denide,</l>
+               <l>Diſpaire aſſayles the partie, ſo exilde.</l>
+            </lg>
+            <lg>
+               <l>And then proceedes the ſport as at a feaſt,</l>
+               <l>Blindnes goes on, and their delight is preſt,</l>
+               <l>More rude in Nature then the ſauage Beaſt:</l>
+               <l>Obſeruing theſe three qualities deteſt,</l>
+               <l>
+                  <hi>Impudencie, Craft,</hi> and <hi>Couetouſnes:</hi>
+               </l>
+               <l>Whereof the firſt aſſures them voyde of ſhame:</l>
+               <l>The ſecond wealth: the third a victors name.</l>
+            </lg>
+            <lg>
+               <l>When, though the booſome of Affection ope,</l>
+               <l>The eye of Pittie ſmyle them in the face;</l>
+               <l>The tongue pronounce ſweete Liberties free ſcope:</l>
+               <l>And Armes expantion offer kind imbrace:</l>
+               <l>Though all reſolue to doe them any grace;</l>
+               <l>As what on earth is more to be extolde,</l>
+               <l>Then Princes loue, out valuing fineſt golde?</l>
+            </lg>
+            <pb facs="tcp:27534:12"/>
+            <lg>
+               <l>Yet they contemne with <hi>Aeſops</hi> Cocke the Pearle,</l>
+               <l>Eſteeming more ſome dirtie Graine rake vpp,</l>
+               <l>Then all the blesſinges gratious Heauens do ſell,</l>
+               <l>To ſuch as thirſt to drinke of Vertues cuppe,</l>
+               <l>Treading the open way that leades to Hell:</l>
+               <l>Rather then enter at the Narrow gate,</l>
+               <l>Whoſe <hi>Iorney</hi> is the bleſſednes of fate.</l>
+            </lg>
+            <lg>
+               <l>Nature beſides abhorres this loathed vice,</l>
+               <l>Opening her wombe in monſterous prodigies,</l>
+               <l>Whoſe better fauours melt away like yce,</l>
+               <l>Supplanting them with harder penuties.</l>
+               <l>The earth all barren and forſaken lyes,</l>
+               <l>In ſtead of holſome fruites, ranckeſt of weedes,</l>
+               <l>Albeit their labour caſt in better ſeedes.</l>
+            </lg>
+            <lg>
+               <l>Heauen lowres in Tragicke collours of diſdaine,</l>
+               <l>His marble face hath no relenting motion:</l>
+               <l>The day expectes her wonted light in vaine:</l>
+               <l>Or if it deigne the world her beames of notion,</l>
+               <l>It is with fiery meteors perturbation:</l>
+               <l>The angery Sunne refraines to ſhine on thoſe,</l>
+               <l>VVhich are to God and men ſuch brainſicke foes.</l>
+            </lg>
+            <pb facs="tcp:27534:12"/>
+            <lg>
+               <l>The dropſy-ſicke infeebled ayre a boundes</l>
+               <l>VVith myſtie vapours filling all her partes.</l>
+               <l>The <hi>Siluans</hi> their mellodious cheerefull ſoundes,</l>
+               <l>To diſmall Skreech-Owle <hi>Elegies</hi> conuertes,</l>
+               <l>Downe the blacke veſture of ſad <hi>Fos'</hi> skyrtes:</l>
+               <l>A Deluge from her raynie cheekes diſtilles,</l>
+               <l>To ſee the earth repleniſht with ſuch diuelles.</l>
+            </lg>
+            <lg>
+               <l>Looke towards the mountaines, &amp; in modeſt lothing</l>
+               <l>They ſhrinke aſide, not able to indure</l>
+               <l>The hidious proude vnnaturall incroching</l>
+               <l>Of ſuch their pleighted loyaltie abiure:</l>
+               <l>The ſauage Beaſtes hold this as moſt impure;</l>
+               <l>They follow the iuſt inſtinction of their kind:</l>
+               <l>Men are to all lycentiouſnes inclind.</l>
+            </lg>
+            <lg>
+               <l>The raging Waters of the boyſterous Seas,</l>
+               <l>A litle banke of Sand doth circle in;</l>
+               <l>Although it ſeeme nought may his threats appeaſe,</l>
+               <l>Yet to exceed his boundes, was neuer ſeene.</l>
+               <l>The <hi>Sunne,</hi> the <hi>Moone,</hi> &amp; <hi>Starres,</hi> obſequious beene:</l>
+               <l>The Cloudes depart not out their ſtation,</l>
+               <l>But gliding, keepe their firſt creation.</l>
+            </lg>
+            <pb facs="tcp:27534:13"/>
+            <lg>
+               <l>More neare to come, peruſe the bodyes frame,</l>
+               <l>How all thinges keepe their mutuall harmonie,</l>
+               <l>VVithout the leaſt commotion in the ſame;</l>
+               <l>The one diſturbing not the others duetie,</l>
+               <l>But loue induceing friendly amitie,</l>
+               <l>Cauſeth a ſweete conſent of many ſtringes,</l>
+               <l>That to the whole exceeding comfort bringes.</l>
+            </lg>
+            <lg>
+               <l>The Hand giues not direction to the Head,</l>
+               <l>But ſeruiceable takes his charge from it.</l>
+               <l>The Foote inſtructeth not the Eye to guide;</l>
+               <l>But from his beames receiues his borrowed light:</l>
+               <l>Contemplate on the flaming vitall bright</l>
+               <l>VVithin the Hart; the motiue in the Brayne:</l>
+               <l>The naturall power the Liuer doth contayne.</l>
+            </lg>
+            <lg>
+               <l>VVho ſees not yf the leaſt of theſe reuolt,</l>
+               <l>Preſuming to ſupplant his neighbour brother</l>
+               <l>Ruine, deſtruction doth the reſt aſsault;</l>
+               <l>And that becomes their murther, was their mother;</l>
+               <l>Moyſture contending lyuely Heate to ſmother:</l>
+               <l>Cold conquering Heate, and what was ſpirit &amp; life,</l>
+               <l>Quite profligate by ſuch inteſtine ſtrife.</l>
+            </lg>
+            <pb facs="tcp:27534:13"/>
+            <lg>
+               <l>May droopes not ſtraight, yf but in qualitie</l>
+               <l>The bodyes temperature retaine exceſſe?</l>
+               <l>As ſay the blood inflamd with Luxurie,</l>
+               <l>Increaſe beyonde his wonted greatnes:</l>
+               <l>What ſodaine pricking yrkſomnes</l>
+               <l>Nettles the Veynes? as but ſome <hi>Delphian</hi> art</l>
+               <l>Rebuke diſorder: health is deſperat.</l>
+            </lg>
+            <lg>
+               <l>Obedience ioynes; Diſorder ſeperates.</l>
+               <l>Obedience pitties; but Diſorder ſcornes.</l>
+               <l>Obedience plantes vineyardes of ſweete Grapes:</l>
+               <l>Diſorder planted with ſharpe pricking Thornes.</l>
+               <l>This many cut-throate Miniſters ſubbornes,</l>
+               <l>That ſtyrres direct <hi>Astras</hi> golden Helme,</l>
+               <l>And makes a peacefull want, excluding Realme.</l>
+            </lg>
+            <lg>
+               <l>Yet theſe blind reprobates, <hi>Megara's</hi> brats,</l>
+               <l>Theſe Safforne-ſhirts; theſe party-pleited lackes:</l>
+               <l>Theſe wod borne Sauages; theſe dunghill Gnats,</l>
+               <l>Had rather beare war-armour on their backes,</l>
+               <l>(So they may practiſe rapes, and tru-mens wrackes)</l>
+               <l>Then freely take fayre Mercy by the hand,</l>
+               <l>To glad themſelues, and dignifie their land.</l>
+            </lg>
+            <pb facs="tcp:27534:14"/>
+            <lg>
+               <l>But if the end of Theft, be I<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bbet-capering.</l>
+               <l>Or if the Scorpion haue a gloſing face;</l>
+               <l>Yet in her tayle conceale 2 deadly ſting.</l>
+               <l>If Iudgement do a while giue Ryot place,</l>
+               <l>And in the end, pay home with deepe diſgrace.</l>
+               <l>If Treaſons period be confuſion,</l>
+               <l>Quelling the proudeſt: Why not then <hi>Terone?</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The valiant hand of ESSEX honored line,</l>
+               <l>Already once diſplay de great <hi>Mars</hi> his Banner;</l>
+               <l>Ringing the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>owtes of theſe rebellious Swine,</l>
+               <l>Within their Confines, teaching them the manner,</l>
+               <l>Of mylde obedience, humbly to ſurrender</l>
+               <l>Their necks to yoak, though fircely they withſtood</l>
+               <l>And know the penalty of ſheddyng blood.</l>
+            </lg>
+            <lg>
+               <l>A Vollume would but ſerue a readyer Pen,</l>
+               <l>Then my ſlow feathered <hi>Muſe</hi> to celebrate;</l>
+               <l>The golden Trophies were erected then,</l>
+               <l>VVhen that renowmed Knight vphelde the ſtate,</l>
+               <l>
+                  <hi>Sir HENRY SIDNEY</hi> gratious by his fate,</l>
+               <l>A throng of Rebels to his mercy crowched,</l>
+               <l>And who refus'd, the ſcaffold dead auouched.</l>
+            </lg>
+            <pb facs="tcp:27534:14"/>
+            <lg>
+               <l>The Bogges yet tremble, and the leaued Trees</l>
+               <l>Shake their high branches in memoriall</l>
+               <l>Of his ſharpe cenſure, and ſeuere decrees.</l>
+               <l>The warlike <hi>GRAY,</hi> whoſe actions Tragicall,</l>
+               <l>Did likewyſe curbe their mindes Imperiall,</l>
+               <l>Giues document; <hi>Fitzwilliams,</hi> and the reſt,</l>
+               <l>In thoſe proceedinges euer highly bleſt.</l>
+            </lg>
+            <lg>
+               <l>Preuaylde they then? Our quarrell's ſtill the ſame,</l>
+               <l>Our wrong no leſſe; nay rightly vnderſtood,</l>
+               <l>Who ſees not merite of farre greater blame,</l>
+               <l>By lauiſh late expence of Engliſh blood:</l>
+               <l>This ioyned with th'abuſe of Traytor-hood,</l>
+               <l>Incites reuenge, deafes-heauen with clamorous cryes,</l>
+               <l>Till they goe downe, and we in conqueſt riſe.</l>
+            </lg>
+            <lg>
+               <l>For this vile ribble rabble vp-ſtart crew,</l>
+               <l>Miſ-led by Treaſons treacherous commaunde;</l>
+               <l>And that rebellion teacher, that late drew</l>
+               <l>His Countrey gainſt their head to lift vp hand;</l>
+               <l>Will know what t'is to dwell in warres falſe band:</l>
+               <l>And will with cauſe cry woe, woe; one by one:</l>
+               <l>VVoe to thee that misled'ſt vs: woe <hi>Terone?</hi>
+               </l>
+            </lg>
+            <gap reason="missing" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
